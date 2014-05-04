@@ -1,6 +1,6 @@
 frontweb-module
 ===============
-＃用于规范YHD的页面模块
+#用于规范YHD的页面模块
 
 #common 模块
 
